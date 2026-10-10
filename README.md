@@ -9,7 +9,6 @@ The platform provides a decentralized, reward-driven mechanism where citizens su
 ## Live Deployment
 
 * Production Application: https://swachhcoin-2be4a.web.app
-* Alternate Domain: https://swachhcoin-2be4a.firebaseapp.com
 * Code Repository: https://github.com/Niharika-b07/SwachhCoin
 
 ---
@@ -214,6 +213,3 @@ Contributions from civic volunteers, municipal representatives, and software dev
 
 ---
 
-## Author
-
-Developed by Niharika Boredha and contributors for the Swachh Bharat and clean municipal initiatives.
